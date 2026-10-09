@@ -1,0 +1,10 @@
+{
+  "config": {
+    "ExposedPorts": {
+      "25565/tcp": {}
+    },
+    "Volumes": {
+      "/data": {}
+    }
+  }
+}
